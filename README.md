@@ -80,7 +80,7 @@ TODO:
 
 Contributions, issues, and feature requests are welcome!
 Open an issue to discuss major changes
-Fork the repository and submit a pull request 🚀
+Fork the repository and submit a pull request.
 
 ___
 
